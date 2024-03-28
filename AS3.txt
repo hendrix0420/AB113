@@ -1,0 +1,40 @@
+1:告知航空器位置 改變電碼 IDENT STANDBY
+
+2:0340-0440Z及0720-0820Z 戰管 3 HOMEI 1B A1西面 TENLI 1A -W4-TNN-W6 W4東面
+
+3:機場東北面約3.5浬
+
+4:即將接近的航跡 即將進入限航區危險區或禁航區的航跡 即將進入高於實際高度MVA區域的航跡 應保持在CFL而未保持平
+飛的航跡
+
+5:否 夜間低於VMC 除非機場航線訓練不得申請SVFR
+
+6:9000 TMR TYR TNR TSR
+
+7:30
+
+8:場面監控強化系統 TRADIS ASDE
+
+9:臺灣防空識別區(ADIZ)
+
+10:5 4 7
+
+11:3個 臺北終端管制空域 花蓮終端管制空域 馬祖終端管制空域
+
+12:5 6 自動放行
+
+13:進場口2浬以外
+
+14:550 800
+
+15:最低安全高度警告 Minimum Safe Altitude Warning 許可空層遵循監視 Cleared Level Adherence Monitoring
+
+16:CAL555 POSSIBLE PILOT DEVIATION ADVISE YOU CONTACT TAIPEI APPROACH AT 033841060
+
+17:Flight Mangement System
+
+18:IFR VFR 先IFR後VFR 先VFR後IFR
+
+19:APU 8000 HLG HLG西南20浬
+
+20:15
