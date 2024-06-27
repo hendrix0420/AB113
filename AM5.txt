@@ -1,0 +1,39 @@
+1:D
+
+2:D
+
+3:D
+
+4:C
+
+5:C
+
+6:D
+
+7:BD
+
+8:D
+
+9:D
+
+10:B
+
+11:最低安全高度警告 Minimum Safe Altitude Warning 許可空層遵循監視 Cleared Level Adherence Monitoring
+
+12:20 30 45
+
+13:3個 臺北終端管制空域 花蓮終端管制空域 馬祖終端管制空域
+
+14:15
+
+15:APU 8000 HLG HLG西南20浬
+
+16:呼號 許可限制點 飛航航線 飛航空層 其他必要指示或相關資訊 
+
+17:EVA888 expect vector across localizer/final for/due to traffic
+
+18:20
+
+19:979
+
+20:通則 航路 機場
